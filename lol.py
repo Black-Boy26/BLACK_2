@@ -89,7 +89,7 @@ class Main:
 				    os.system("rm -rf FUCK-NAIM")
 				    os.system("git clone https://github.com/BlackBoy26/FUCK-NAIM")
 				    os.system("cd FUCK-NAIM")
-				    os.system("python3 dad1.py")
+				    os.system("python dad1.py")
 		elif rimon in ["2", "02"]:
 		    Main()
 
